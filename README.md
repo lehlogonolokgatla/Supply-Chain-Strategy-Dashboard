@@ -7,27 +7,23 @@
 
 A multi-page, interactive web application designed for Operations and Strategy Analysts to optimize logistics, manage inventory, and perform data-driven scenario planning. This tool transforms raw operational data into actionable business insights.
 
-###  dashboards (Live Demo Link - *Coming Soon*)
+*(Note: A live version can be deployed using Streamlit Community Cloud.)*
 
 ---
 
 ## 📸 Dashboard Screenshots
 
 **Home Page & File Uploader:**
-*A user-friendly landing page allowing users to either use sample data or upload their own custom datasets.*
-![Home Page] (./screenshots/home.png)
-
+*A user-friendly landing page allowing users to either use the sample data or upload their own custom datasets.*
+![Home Page](screenshots/home.png)
 
 **Transportation Optimizer:**
 *Interactive map visualization of optimized routes, scenario controls, and sustainability tracking.*
-![Transportation Page] (./screenshots/transportation.png)
-
-
+![Transportation Page](screenshots/transportation.png)
 
 **Inventory Optimization:**
 *A strategic calculator to determine optimal safety stock and reorder points based on demand variability and desired service levels.*
-![Inventory Page] (./screenshots/inventory.png)
-
+![Inventory Page](screenshots/inventory.png)
 
 ---
 
@@ -62,7 +58,6 @@ This project showcases a blend of technical implementation and strategic busines
 -   **Optimization Solver:** Google OR-Tools
 -   **Statistical Analysis:** SciPy
 -   **Mapping:** Folium, Streamlit-Folium
--   **Data Validation:** Pydantic
 
 ---
 
@@ -70,8 +65,8 @@ This project showcases a blend of technical implementation and strategic busines
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/YourRepositoryName.git
-    cd YourRepositoryName
+    git clone https://github.com/lehlogonolokgatla/Supply-Chain-Strategy-Dashboard.git
+    cd Supply-Chain-Strategy-Dashboard
     ```
 
 2.  **Create and activate a virtual environment:**
