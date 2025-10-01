@@ -1,0 +1,15 @@
+{
+    "variable_costs": {
+        "fuel_cost_per_liter": 1.75,
+        "maintenance_cost_per_km": 0.15,
+        "driver_wage_per_hour": 28.0
+    },
+    "fixed_costs": {
+        "vehicle_depreciation_per_day": 50.0,
+        "insurance_per_day": 15.0
+    },
+    "optimization_constraints": {
+        "max_driving_hours_per_day": 10,
+        "penalty_late_delivery_per_minute": 5.0
+    }
+}

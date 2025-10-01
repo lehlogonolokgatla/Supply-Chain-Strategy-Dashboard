@@ -1,0 +1,18 @@
+# Core Data Handling & Numerics
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+
+# Optimization Engine
+ortools==9.9.3963
+
+# Data Generation for Testing
+Faker==25.8.0
+
+# Visualization & Dashboard
+streamlit==1.35.0
+folium==0.16.0
+streamlit-folium==0.19.0
+
+# Data Modeling & Validation
+pydantic==2.7.1

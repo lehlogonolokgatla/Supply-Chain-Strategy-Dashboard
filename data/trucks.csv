@@ -1,0 +1,4 @@
+id,capacity_weight,capacity_volume,fuel_type,avg_fuel_consumption_L_per_100km,driver_hours_limit,home_depot_id,co2_emissions_g_per_km
+TRUCK_01,10000.0,30.0,Diesel,29.1,10.0,FARM_04,710.9
+TRUCK_02,10000.0,50.0,Diesel,33.3,10.0,FARM_03,916.3
+TRUCK_03,10000.0,50.0,Diesel,26.9,10.0,FARM_01,842.1
