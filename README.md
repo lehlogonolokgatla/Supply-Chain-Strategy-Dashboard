@@ -15,19 +15,19 @@ A multi-page, interactive web application designed for Operations and Strategy A
 
 **Home Page & File Uploader:**
 *A user-friendly landing page allowing users to either use sample data or upload their own custom datasets.*
-![Home Page]
-<img width="1365" height="625" alt="image" src="https://github.com/user-attachments/assets/c082a8ba-84e4-43d4-a0e1-c5a4baa542e6" />
+![Home Page] (./screenshots/home.png)
+
 
 **Transportation Optimizer:**
 *Interactive map visualization of optimized routes, scenario controls, and sustainability tracking.*
-![Transportation Page]
-<img width="1364" height="637" alt="image" src="https://github.com/user-attachments/assets/af611441-f427-43f4-8a38-215704f845b4" />
+![Transportation Page] (./screenshots/transportation.png)
+
 
 
 **Inventory Optimization:**
 *A strategic calculator to determine optimal safety stock and reorder points based on demand variability and desired service levels.*
-![Inventory Page]
-<img width="1356" height="630" alt="image" src="https://github.com/user-attachments/assets/5fba301d-485d-4292-9fa1-fdecf880faf4" />
+![Inventory Page] (./screenshots/inventory.png)
+
 
 ---
 
